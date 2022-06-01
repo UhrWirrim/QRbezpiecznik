@@ -10,4 +10,4 @@
 <p></p>
 <p>Jest jeszcze dużo ciekawych szkoleń na kt&oacute;re możesz się zapisać.&nbsp;Wr&oacute;ć do prezentacji i napisz mi emaila aby poznać pełną ofertę. Pozdrawiam UhrWirrim&nbsp;</p>
 
-<strong><p>A teraz już konkretnie o ankiecie oto już właściwy link do google docs :) https://forms.gle/cHsf2iptxJvRAc9K7 </strong></p>
+<strong><p>A teraz już konkretnie o ankiecie oto już właściwy link do google docs :) <a href="https://forms.gle/cHsf2iptxJvRAc9K7">https://forms.gle/cHsf2iptxJvRAc9K7</a></strong></p>
