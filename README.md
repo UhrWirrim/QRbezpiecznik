@@ -1,0 +1,3 @@
+# QRbezpiecznik
+QRbezpiecznik
+
